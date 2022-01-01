@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "timTurtle.py", line 14, in <module>
-    tort.left(num)
-NameError: name 'num' is not defined
