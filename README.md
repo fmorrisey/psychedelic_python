@@ -1,2 +1,2 @@
-# psychedelic_python
-The projects that helped me rediscover my love for coding. Psychedelic Python is a fun and colorful exploration of coding through visual feedback. This project started on Code.org with middle schoolers that I then moved to python to teach myself how to code.
+# Psychedelic Python
+The projects that helped me rediscover my love for coding. Psychedelic Python is a fun and colorful exploration of coding through visual feedback. This project started on Code.org with middle schoolers that I then moved to python to teach myself how to code. While I was also simulationsly sharing the results with my Middle School students. Had the pandemic not distrupted that school year and my teaching career, I would have loved to have seen what my students could have made and built with code.
